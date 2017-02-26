@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/exiach/learning-angular-lol#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
   }
 }
