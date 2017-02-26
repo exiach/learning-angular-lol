@@ -1,0 +1,29 @@
+{
+  "name": "learning-angular-lol",
+  "description": "Learn about angular 1",
+  "main": "index.js",
+  "authors": [
+    "Daniel Canqui"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "controllers",
+    "directives",
+    "services",
+    "learning"
+  ],
+  "homepage": "https://github.com/exiach/learning-angular-lol",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.1.1",
+    "angular": "^1.6.2"
+  }
+}
